@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmayagarwal1
 - 👀 I’m interested in Coding and Physics 
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I’m a graduate Computer Science Engineer
 - 💞️ I’m looking to collaborate on Open Source projects 
 
 <!---
