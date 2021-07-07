@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmay </h1>
-<h3 align="center">I am a computer science engineer with a passion for coding and physics</h3>
+<h3 align="center">I am a Computer Science Engineer with a passion for coding and physics</h3>
 
 
 ## 1. 🙋‍♂️ About Me
