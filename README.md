@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmay </h1>
-<h3 align="center">I am a Computer Science Engineer with a passion for coding and physics</h3>
+<h3 align="center"> A Computer Science Engineer with a passion for coding and physics</h3>
 
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m working on **[Advanced algorithms and competitive coding](https://github.com/tanmayagarwal1/Code)**
+- 🔭 Working on **[Advanced algorithms and competitive coding](https://github.com/tanmayagarwal1/Code)**
 
-- ✏️ I’m currently learning ```Docker ```
+- ✏️ Currently learning ```Docker ```
 
 - 🎓 Graduated from ```Gandhi Institute of Science and Technology ( Gitam University ) ```
 
-- 🌍 I’m looking to collaborate with developers 
+- 🌍 Looking to collaborate with developers 
 
 - 📌 Some of my projects include :
   - **[A deep learning approach and bio-inspired computing for survival prediction](https://subhamraoniar.com)**
@@ -21,7 +21,7 @@
 
 - 📩 My email **tanmayagarwal00010@gmail.com**
 
-- ✨Fun fact **I play games and go to the GYM very often.**
+- ✨ Fun fact **I am a football freak and also a guitar player .**
 
 ## 2. 🚀 Languages and Tools:
 
