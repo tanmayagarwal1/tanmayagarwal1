@@ -10,7 +10,7 @@
 
 - ✏️ I’m currently learning ```Docker ```
 
-- 🎓 Graduated from Gandhi Institute of Science and Technology ( Gitam University ) 
+- 🎓 Graduated from ```Gandhi Institute of Science and Technology ( Gitam University ) ```
 
 - 🌍 I’m looking to collaborate with developers 
 
