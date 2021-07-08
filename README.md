@@ -15,7 +15,7 @@
 - 🌍 Looking to collaborate with developers 
 
 - 📌 Some of my projects include :
-  - **[A deep learning approach and bio-inspired computing for survival prediction](https://subhamraoniar.com)**
+  - **[A deep learning approach and bio-inspired computing for survival prediction](https://github.com/tanmayagarwal1/Survivability-Predictor)**
   - **[Real time obstacle detection and avoidance for unmanned aerial vehicles](https://github.com/tanmayagarwal1/Internship-Project)**
   - **[Classification of Malignant and Benign tumor using machine learning models](https://github.com/tanmayagarwal1/Tumor-Detection)**
 
