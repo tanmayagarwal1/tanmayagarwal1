@@ -8,7 +8,7 @@
 
 - 🔭 Working on **[Advanced algorithms and competitive coding](https://github.com/tanmayagarwal1/Code)**
 
-- ✏️ Currently learning ```Simulating hydrogen eigenstates using SciPy ```
+- ✏️ Currently learning ```Simulation of hydrogen eigenstates using SciPy ```
 
 - 🎓 Graduated from ```Gandhi Institute of Science and Technology ( Gitam University ) ```
 
