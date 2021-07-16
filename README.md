@@ -6,7 +6,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 Working on **[Advanced algorithms and competitive coding](https://github.com/tanmayagarwal1/Code)**
+- 🔭 Working on **[Algorithms and competitive coding](https://github.com/tanmayagarwal1/Code)**
 
 - ✏️ Currently learning ```Simulation of hydrogen eigenstates using SciPy ```
 
